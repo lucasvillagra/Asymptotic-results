@@ -1,5 +1,5 @@
 \\======================================================================
-\\ Script used to compute the curves needed in Thm 3.6
+\\ Script used to compute the curves needed in Thm 3.5
 
 \\======================================================================
 \\ Function to determine whether the value b is of the form p*a^3 or not.
