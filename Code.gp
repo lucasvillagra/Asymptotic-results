@@ -30,8 +30,7 @@ FindCurves(sign1,sign2)=
 {local(cand,c,A,p,K,E,a,b);
 cand=[];
 
-/* First case, when b is positive and the right hand side is also positive
-c will denote the value of the right hand side */
+\\ First case, when b is positive and the right hand side is also positive c will denote the value of the right hand side 
 
 for(r=2,16,
     for(q=2,13,
