@@ -1,0 +1,1 @@
+# Asymptotic-results-for-the-equations-x-dy-z-p-and-x-dy-6-z-p
